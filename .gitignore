@@ -1,0 +1,14 @@
+.venv/
+.venv-ai/
+.venv-demucs314/
+.pip-cache/
+__pycache__/
+*.pyc
+
+jobs/
+outputs/
+server.log
+launcher.log
+
+bin/*.dll
+bin/*.exe
